@@ -1,0 +1,1000 @@
+opened URL
+downloaded 1.6 MB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/mapproj_1.2-4.zip'
+Content type 'application/zip' length 80745 bytes (78 KB)
+opened URL
+downloaded 78 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/maps_3.1.0.zip'
+Content type 'application/zip' length 3610757 bytes (3.4 MB)
+opened URL
+downloaded 3.4 MB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/maptools_0.8-39.zip'
+Content type 'application/zip' length 1816489 bytes (1.7 MB)
+opened URL
+downloaded 1.7 MB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/multcomp_1.4-4.zip'
+Content type 'application/zip' length 631427 bytes (616 KB)
+opened URL
+downloaded 616 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/quantreg_5.21.zip'
+Content type 'application/zip' length 2143984 bytes (2.0 MB)
+opened URL
+downloaded 2.0 MB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/knitr_1.12.3.zip'
+Content type 'application/zip' length 811552 bytes (792 KB)
+opened URL
+downloaded 792 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/rmarkdown_0.9.6.zip'
+Content type 'application/zip' length 2183047 bytes (2.1 MB)
+opened URL
+downloaded 2.1 MB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/svglite_1.1.0.zip'
+Content type 'application/zip' length 523988 bytes (511 KB)
+opened URL
+downloaded 511 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/lme4_1.1-10.zip'
+Content type 'application/zip' length 4783214 bytes (4.6 MB)
+opened URL
+downloaded 4.6 MB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/prefmod_0.8-33.zip'
+Content type 'application/zip' length 405340 bytes (395 KB)
+opened URL
+downloaded 395 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/SparseM_1.7.zip'
+Content type 'application/zip' length 803181 bytes (784 KB)
+opened URL
+downloaded 784 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/xtable_1.8-2.zip'
+Content type 'application/zip' length 710000 bytes (693 KB)
+opened URL
+downloaded 693 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/plotmo_3.1.4.zip'
+Content type 'application/zip' length 913551 bytes (892 KB)
+opened URL
+downloaded 892 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/TeachingDemos_2.10.zip'
+Content type 'application/zip' length 1687369 bytes (1.6 MB)
+opened URL
+downloaded 1.6 MB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/foreach_1.4.3.zip'
+Content type 'application/zip' length 388802 bytes (379 KB)
+opened URL
+downloaded 379 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/akima_0.5-12.zip'
+Content type 'application/zip' length 174159 bytes (170 KB)
+opened URL
+downloaded 170 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/mvtnorm_1.0-5.zip'
+Content type 'application/zip' length 227908 bytes (222 KB)
+opened URL
+downloaded 222 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/TH.data_1.0-7.zip'
+Content type 'application/zip' length 5212934 bytes (5.0 MB)
+opened URL
+downloaded 5.0 MB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/scatterplot3d_0.3-36.zip'
+Content type 'application/zip' length 338231 bytes (330 KB)
+opened URL
+downloaded 330 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/som_0.3-5.zip'
+Content type 'application/zip' length 673349 bytes (657 KB)
+opened URL
+downloaded 657 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/modeltools_0.2-21.zip'
+Content type 'application/zip' length 142795 bytes (139 KB)
+opened URL
+downloaded 139 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/strucchange_1.5-1.zip'
+Content type 'application/zip' length 788793 bytes (770 KB)
+opened URL
+downloaded 770 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/colorspace_1.2-6.zip'
+Content type 'application/zip' length 389026 bytes (379 KB)
+opened URL
+downloaded 379 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/vcd_1.4-1.zip'
+Content type 'application/zip' length 1168271 bytes (1.1 MB)
+opened URL
+downloaded 1.1 MB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/Rmpi_0.6-5.zip'
+Content type 'application/zip' length 257228 bytes (251 KB)
+opened URL
+downloaded 251 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/microbenchmark_1.4-2.1.zip'
+Content type 'application/zip' length 62193 bytes (60 KB)
+opened URL
+downloaded 60 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/logcondens_2.1.4.zip'
+Content type 'application/zip' length 704539 bytes (688 KB)
+opened URL
+downloaded 688 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/doParallel_1.0.10.zip'
+Content type 'application/zip' length 184406 bytes (180 KB)
+opened URL
+downloaded 180 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/cba_0.2-15.zip'
+Content type 'application/zip' length 268535 bytes (262 KB)
+opened URL
+downloaded 262 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/RColorBrewer_1.1-2.zip'
+Content type 'application/zip' length 26693 bytes (26 KB)
+opened URL
+downloaded 26 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/ISwR_2.0-7.zip'
+Content type 'application/zip' length 218478 bytes (213 KB)
+opened URL
+downloaded 213 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/corpcor_1.6.8.zip'
+Content type 'application/zip' length 86289 bytes (84 KB)
+opened URL
+downloaded 84 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/devtools_1.11.1.zip'
+Content type 'application/zip' length 389845 bytes (380 KB)
+opened URL
+downloaded 380 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/withr_1.0.1.zip'
+Content type 'application/zip' length 41016 bytes (40 KB)
+opened URL
+downloaded 40 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/ggplot2_2.1.0.zip'
+Content type 'application/zip' length 1989346 bytes (1.9 MB)
+opened URL
+downloaded 1.9 MB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/BradleyTerry2_1.0-6.zip'
+Content type 'application/zip' length 498468 bytes (486 KB)
+opened URL
+downloaded 486 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/e1071_1.6-7.zip'
+Content type 'application/zip' length 814561 bytes (795 KB)
+opened URL
+downloaded 795 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/earth_4.4.4.zip'
+Content type 'application/zip' length 1729731 bytes (1.6 MB)
+opened URL
+downloaded 1.6 MB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/fastICA_1.2-0.zip'
+Content type 'application/zip' length 52559 bytes (51 KB)
+opened URL
+downloaded 51 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/gam_1.12.zip'
+Content type 'application/zip' length 288857 bytes (282 KB)
+opened URL
+downloaded 282 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/ipred_0.9-5.zip'
+Content type 'application/zip' length 297156 bytes (290 KB)
+opened URL
+downloaded 290 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/kernlab_0.9-24.zip'
+Content type 'application/zip' length 2051763 bytes (2.0 MB)
+opened URL
+downloaded 2.0 MB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/klaR_0.6-12.zip'
+Content type 'application/zip' length 319601 bytes (312 KB)
+opened URL
+downloaded 312 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/ellipse_0.3-8.zip'
+Content type 'application/zip' length 48808 bytes (47 KB)
+opened URL
+downloaded 47 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/mda_0.4-8.zip'
+Content type 'application/zip' length 299608 bytes (292 KB)
+opened URL
+downloaded 292 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/mlbench_2.1-1.zip'
+Content type 'application/zip' length 1032334 bytes (1008 KB)
+opened URL
+downloaded 1008 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/party_1.0-25.zip'
+Content type 'application/zip' length 709359 bytes (692 KB)
+opened URL
+downloaded 692 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/pls_2.5-0.zip'
+Content type 'application/zip' length 1097082 bytes (1.0 MB)
+opened URL
+downloaded 1.0 MB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/pROC_1.8.zip'
+Content type 'application/zip' length 785297 bytes (766 KB)
+opened URL
+downloaded 766 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/proxy_0.4-15.zip'
+Content type 'application/zip' length 154184 bytes (150 KB)
+opened URL
+downloaded 150 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/randomForest_4.6-12.zip'
+Content type 'application/zip' length 177216 bytes (173 KB)
+opened URL
+downloaded 173 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/RANN_2.5.zip'
+Content type 'application/zip' length 449707 bytes (439 KB)
+opened URL
+downloaded 439 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/spls_2.2-1.zip'
+Content type 'application/zip' length 2370146 bytes (2.3 MB)
+opened URL
+downloaded 2.3 MB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/subselect_0.12-5.zip'
+Content type 'application/zip' length 1306313 bytes (1.2 MB)
+opened URL
+downloaded 1.2 MB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/pamr_1.55.zip'
+Content type 'application/zip' length 784585 bytes (766 KB)
+opened URL
+downloaded 766 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/superpc_1.09.zip'
+Content type 'application/zip' length 75591 bytes (73 KB)
+opened URL
+downloaded 73 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/Cubist_0.0.18.zip'
+Content type 'application/zip' length 430484 bytes (420 KB)
+opened URL
+downloaded 420 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/testthat_1.0.2.zip'
+Content type 'application/zip' length 1015013 bytes (991 KB)
+opened URL
+downloaded 991 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/caret_6.0-68.zip'
+Content type 'application/zip' length 4653093 bytes (4.4 MB)
+opened URL
+downloaded 4.4 MB
+
+package ‘norm’ successfully unpacked and MD5 sums checked
+package ‘BRugs’ successfully unpacked and MD5 sums checked
+package ‘actuar’ successfully unpacked and MD5 sums checked
+package ‘rgenoud’ successfully unpacked and MD5 sums checked
+package ‘mc2d’ successfully unpacked and MD5 sums checked
+package ‘rjags’ successfully unpacked and MD5 sums checked
+package ‘intsvy’ successfully unpacked and MD5 sums checked
+package ‘svyPVpack’ successfully unpacked and MD5 sums checked
+package ‘BaBooN’ successfully unpacked and MD5 sums checked
+package ‘R2WinBUGS’ successfully unpacked and MD5 sums checked
+package ‘betareg’ successfully unpacked and MD5 sums checked
+package ‘fitdistrplus’ successfully unpacked and MD5 sums checked
+package ‘maxlike’ successfully unpacked and MD5 sums checked
+package ‘R2jags’ successfully unpacked and MD5 sums checked
+package ‘R2OpenBUGS’ successfully unpacked and MD5 sums checked
+package ‘lasso2’ successfully unpacked and MD5 sums checked
+package ‘prim’ successfully unpacked and MD5 sums checked
+package ‘BIFIEsurvey’ successfully unpacked and MD5 sums checked
+package ‘haven’ successfully unpacked and MD5 sums checked
+package ‘jomo’ successfully unpacked and MD5 sums checked
+package ‘mitml’ successfully unpacked and MD5 sums checked
+package ‘emdbook’ successfully unpacked and MD5 sums checked
+package ‘MuMIn’ successfully unpacked and MD5 sums checked
+package ‘AICcmodavg’ successfully unpacked and MD5 sums checked
+package ‘rngWELL’ successfully unpacked and MD5 sums checked
+package ‘TSP’ successfully unpacked and MD5 sums checked
+package ‘inlinedocs’ successfully unpacked and MD5 sums checked
+package ‘alphahull’ successfully unpacked and MD5 sums checked
+package ‘ElemStatLearn’ successfully unpacked and MD5 sums checked
+package ‘CDM’ successfully unpacked and MD5 sums checked
+package ‘TAM’ successfully unpacked and MD5 sums checked
+package ‘miceadds’ successfully unpacked and MD5 sums checked
+package ‘SimDesign’ successfully unpacked and MD5 sums checked
+package ‘bbmle’ successfully unpacked and MD5 sums checked
+package ‘mvnormtest’ successfully unpacked and MD5 sums checked
+package ‘partitions’ successfully unpacked and MD5 sums checked
+package ‘randtoolbox’ successfully unpacked and MD5 sums checked
+package ‘rugarch’ successfully unpacked and MD5 sums checked
+package ‘Runuran’ successfully unpacked and MD5 sums checked
+package ‘VineCopula’ successfully unpacked and MD5 sums checked
+package ‘directlabels’ successfully unpacked and MD5 sums checked
+package ‘Rsolnp’ successfully unpacked and MD5 sums checked
+package ‘alabama’ successfully unpacked and MD5 sums checked
+package ‘sirt’ successfully unpacked and MD5 sums checked
+package ‘mirtCAT’ successfully unpacked and MD5 sums checked
+package ‘isa2’ successfully unpacked and MD5 sums checked
+package ‘MplusAutomation’ successfully unpacked and MD5 sums checked
+package ‘Amelia’ successfully unpacked and MD5 sums checked
+package ‘GPArotation’ successfully unpacked and MD5 sums checked
+package ‘mnormt’ successfully unpacked and MD5 sums checked
+package ‘copula’ successfully unpacked and MD5 sums checked
+package ‘gridExtra’ successfully unpacked and MD5 sums checked
+package ‘mirt’ successfully unpacked and MD5 sums checked
+package ‘biclust’ successfully unpacked and MD5 sums checked
+package ‘DendSer’ successfully unpacked and MD5 sums checked
+package ‘GA’ successfully unpacked and MD5 sums checked
+package ‘lava.tobit’ successfully unpacked and MD5 sums checked
+package ‘ucminf’ successfully unpacked and MD5 sums checked
+package ‘lavaan.survey’ successfully unpacked and MD5 sums checked
+package ‘semPlot’ successfully unpacked and MD5 sums checked
+package ‘semTools’ successfully unpacked and MD5 sums checked
+package ‘simsem’ successfully unpacked and MD5 sums checked
+package ‘rpf’ successfully unpacked and MD5 sums checked
+package ‘seriation’ successfully unpacked and MD5 sums checked
+package ‘mets’ successfully unpacked and MD5 sums checked
+package ‘gof’ successfully unpacked and MD5 sums checked
+package ‘RcmdrMisc’ successfully unpacked and MD5 sums checked
+package ‘aplpack’ successfully unpacked and MD5 sums checked
+package ‘forward’ successfully unpacked and MD5 sums checked
+package ‘lavaan’ successfully unpacked and MD5 sums checked
+package ‘OpenMx’ successfully unpacked and MD5 sums checked
+package ‘rlecuyer’ successfully unpacked and MD5 sums checked
+package ‘nws’ successfully unpacked and MD5 sums checked
+package ‘corrplot’ successfully unpacked and MD5 sums checked
+package ‘iplots’ successfully unpacked and MD5 sums checked
+package ‘timereg’ successfully unpacked and MD5 sums checked
+package ‘cmprsk’ successfully unpacked and MD5 sums checked
+package ‘CoxBoost’ successfully unpacked and MD5 sums checked
+package ‘crrstep’ successfully unpacked and MD5 sums checked
+package ‘riskRegression’ successfully unpacked and MD5 sums checked
+package ‘lava’ successfully unpacked and MD5 sums checked
+package ‘faraway’ successfully unpacked and MD5 sums checked
+package ‘cubature’ successfully unpacked and MD5 sums checked
+package ‘Devore7’ successfully unpacked and MD5 sums checked
+package ‘gapminder’ successfully unpacked and MD5 sums checked
+package ‘R2HTML’ successfully unpacked and MD5 sums checked
+package ‘Rcmdr’ successfully unpacked and MD5 sums checked
+package ‘miscTools’ successfully unpacked and MD5 sums checked
+package ‘BMA’ successfully unpacked and MD5 sums checked
+package ‘DescTools’ successfully unpacked and MD5 sums checked
+package ‘gridBase’ successfully unpacked and MD5 sums checked
+package ‘polycor’ successfully unpacked and MD5 sums checked
+package ‘MBESS’ successfully unpacked and MD5 sums checked
+package ‘DiagrammeR’ successfully unpacked and MD5 sums checked
+package ‘snow’ successfully unpacked and MD5 sums checked
+package ‘candisc’ successfully unpacked and MD5 sums checked
+package ‘corrgram’ successfully unpacked and MD5 sums checked
+package ‘FRB’ successfully unpacked and MD5 sums checked
+package ‘animation’ successfully unpacked and MD5 sums checked
+package ‘TTR’ successfully unpacked and MD5 sums checked
+package ‘downloader’ successfully unpacked and MD5 sums checked
+package ‘gmp’ successfully unpacked and MD5 sums checked
+package ‘scalreg’ successfully unpacked and MD5 sums checked
+package ‘arulesViz’ successfully unpacked and MD5 sums checked
+package ‘pec’ successfully unpacked and MD5 sums checked
+package ‘prodlim’ successfully unpacked and MD5 sums checked
+package ‘mosaicData’ successfully unpacked and MD5 sums checked
+package ‘lubridate’ successfully unpacked and MD5 sums checked
+package ‘fastR’ successfully unpacked and MD5 sums checked
+package ‘NHANES’ successfully unpacked and MD5 sums checked
+package ‘tidyr’ successfully unpacked and MD5 sums checked
+package ‘ascii’ successfully unpacked and MD5 sums checked
+package ‘R.devices’ successfully unpacked and MD5 sums checked
+package ‘base64enc’ successfully unpacked and MD5 sums checked
+package ‘geoRglm’ successfully unpacked and MD5 sums checked
+package ‘vioplot’ successfully unpacked and MD5 sums checked
+package ‘statnet.common’ successfully unpacked and MD5 sums checked
+package ‘relimp’ successfully unpacked and MD5 sums checked
+package ‘VGAMdata’ successfully unpacked and MD5 sums checked
+package ‘maxLik’ successfully unpacked and MD5 sums checked
+package ‘Ecfun’ successfully unpacked and MD5 sums checked
+package ‘sem’ successfully unpacked and MD5 sums checked
+package ‘lars’ successfully unpacked and MD5 sums checked
+package ‘snowfall’ successfully unpacked and MD5 sums checked
+package ‘poLCA’ successfully unpacked and MD5 sums checked
+package ‘heplots’ successfully unpacked and MD5 sums checked
+package ‘quantmod’ successfully unpacked and MD5 sums checked
+package ‘fBasics’ successfully unpacked and MD5 sums checked
+package ‘Rmpfr’ successfully unpacked and MD5 sums checked
+package ‘hdi’ successfully unpacked and MD5 sums checked
+package ‘ada’ successfully unpacked and MD5 sums checked
+package ‘amap’ successfully unpacked and MD5 sums checked
+package ‘arules’ successfully unpacked and MD5 sums checked
+package ‘randomForestSRC’ successfully unpacked and MD5 sums checked
+package ‘pmmlTransformations’ successfully unpacked and MD5 sums checked
+package ‘likert’ successfully unpacked and MD5 sums checked
+package ‘gtools’ successfully unpacked and MD5 sums checked
+package ‘agricolae’ successfully unpacked and MD5 sums checked
+Warning in install.packages :
+  error 1 in extracting from zip file
+Warning in install.packages :
+  cannot open compressed file 'mosaic/DESCRIPTION', probable reason 'No such file or directory'
+Error in install.packages : cannot open the connection
+> library(caret)
+Error in library(caret) : there is no package called ‘caret’
+> library(randomForest
++ 
++ 
++ 
++ 
++ library(caret)
+Error: unexpected symbol in:
+"
+library"
+> library(caret)
+Error in library(caret) : there is no package called ‘caret’
+> library(randomForest)
+Error in library(randomForest) : 
+  there is no package called ‘randomForest’
+> install.packages("randomForest)
++ 
++ 
++ 
++ 
++ 
++ ""
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ install.packages("randomForest")
+Error: unexpected string constant in:
+"
+install.packages(""
+> install.packages("randomForest")
+Installing package into ‘C:/Users/abjul/OneDrive/Documents/R/win-library/3.1’
+(as ‘lib’ is unspecified)
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/randomForest_4.6-12.zip'
+Content type 'application/zip' length 177216 bytes (173 KB)
+opened URL
+downloaded 173 KB
+
+package ‘randomForest’ successfully unpacked and MD5 sums checked
+
+The downloaded binary packages are in
+	C:\Users\abjul\AppData\Local\Temp\RtmpSmz7gB\downloaded_packages
+> library(randomForest)
+randomForest 4.6-12
+Type rfNews() to see new features/changes/bug fixes.
+> rfNews()
+> library(randomForest)
+> install.packages("rpart")
+Installing package into ‘C:/Users/abjul/OneDrive/Documents/R/win-library/3.1’
+(as ‘lib’ is unspecified)
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/rpart_4.1-10.zip'
+Content type 'application/zip' length 921743 bytes (900 KB)
+opened URL
+downloaded 900 KB
+
+package ‘rpart’ successfully unpacked and MD5 sums checked
+
+The downloaded binary packages are in
+	C:\Users\abjul\AppData\Local\Temp\RtmpSmz7gB\downloaded_packages
+> library(rpart)
+> library(rpart.plot)
+Error in library(rpart.plot) : there is no package called ‘rpart.plot’
+> install.packages("rpart.plot")
+Installing package into ‘C:/Users/abjul/OneDrive/Documents/R/win-library/3.1’
+(as ‘lib’ is unspecified)
+
+  There is a binary version available (and will be
+  installed) but the source version is later:
+           binary source
+rpart.plot  1.5.3  2.1.0
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/rpart.plot_1.5.3.zip'
+Content type 'application/zip' length 522330 bytes (510 KB)
+opened URL
+downloaded 510 KB
+
+package ‘rpart.plot’ successfully unpacked and MD5 sums checked
+
+The downloaded binary packages are in
+	C:\Users\abjul\AppData\Local\Temp\RtmpSmz7gB\downloaded_packages
+> library(rpart.plot)
+> install.packages("RColorBrewer")
+Installing package into ‘C:/Users/abjul/OneDrive/Documents/R/win-library/3.1’
+(as ‘lib’ is unspecified)
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/RColorBrewer_1.1-2.zip'
+Content type 'application/zip' length 26693 bytes (26 KB)
+opened URL
+downloaded 26 KB
+
+package ‘RColorBrewer’ successfully unpacked and MD5 sums checked
+
+The downloaded binary packages are in
+	C:\Users\abjul\AppData\Local\Temp\RtmpSmz7gB\downloaded_packages
+> library(RColorBrewer)
+> install.packages("rattle")
+Installing package into ‘C:/Users/abjul/OneDrive/Documents/R/win-library/3.1’
+(as ‘lib’ is unspecified)
+also installing the dependency ‘stringi’
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/stringi_1.0-1.zip'
+Content type 'application/zip' length 14266706 bytes (13.6 MB)
+opened URL
+downloaded 13.6 MB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/rattle_4.1.0.zip'
+Content type 'application/zip' length 3815375 bytes (3.6 MB)
+opened URL
+downloaded 3.6 MB
+
+package ‘stringi’ successfully unpacked and MD5 sums checked
+package ‘rattle’ successfully unpacked and MD5 sums checked
+
+The downloaded binary packages are in
+	C:\Users\abjul\AppData\Local\Temp\RtmpSmz7gB\downloaded_packages
+> library(rattle)
+Error in inDL(x, as.logical(local), as.logical(now), ...) : 
+  unable to load shared object 'C:/Users/abjul/OneDrive/Documents/R/win-library/3.1/RGtk2/libs/x64/RGtk2.dll':
+  LoadLibrary failure:  The specified module could not be found.
+
+trying URL 'http://ftp.gnome.org/pub/gnome/binaries/win64/gtk+/2.22/gtk+-bundle_2.22.1-20101229_win64.zip'
+Content type 'application/zip' length 25830230 bytes (24.6 MB)
+opened URL
+downloaded 24.6 MB
+
+Learn more about GTK+ at http://www.gtk.org
+If the package still does not load, please ensure that GTK+ is installed and that it is on your PATH environment variable
+IN ANY CASE, RESTART R BEFORE TRYING TO LOAD THE PACKAGE AGAIN
+Rattle: A free graphical interface for data mining with R.
+Version 4.1.0 Copyright (c) 2006-2015 Togaware Pty Ltd.
+Type 'rattle()' to shake, rattle, and roll your data.
+Warning messages:
+1: Failed to load RGtk2 dynamic library, attempting to install it. 
+2: In dir.create(config_path, recursive = TRUE) :
+  'C:\Users\abjul\OneDrive\Documents\R\win-library\3.1\RGtk2\gtk\x64\etc\gtk-2.0' already exists
+> library(rattle)
+> install.packages("caret")
+Installing package into ‘C:/Users/abjul/OneDrive/Documents/R/win-library/3.1’
+(as ‘lib’ is unspecified)
+
+  There is a binary version available (and will be
+  installed) but the source version is later:
+      binary source
+caret 6.0-68 6.0-73
+
+also installing the dependencies ‘colorspace’, ‘minqa’, ‘nloptr’, ‘RcppEigen’, ‘dichromat’, ‘munsell’, ‘labeling’, ‘lme4’, ‘SparseM’, ‘MatrixModels’, ‘digest’, ‘gtable’, ‘scales’, ‘pbkrtest’, ‘quantreg’, ‘iterators’, ‘Rcpp’, ‘stringr’, ‘ggplot2’, ‘car’, ‘foreach’, ‘plyr’, ‘reshape2’
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/colorspace_1.2-6.zip'
+Content type 'application/zip' length 389026 bytes (379 KB)
+opened URL
+downloaded 379 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/minqa_1.2.4.zip'
+Content type 'application/zip' length 557056 bytes (544 KB)
+opened URL
+downloaded 544 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/nloptr_1.0.4.zip'
+Content type 'application/zip' length 1103488 bytes (1.1 MB)
+opened URL
+downloaded 1.1 MB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/RcppEigen_0.3.2.8.1.zip'
+Content type 'application/zip' length 2146647 bytes (2.0 MB)
+opened URL
+downloaded 2.0 MB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/dichromat_2.0-0.zip'
+Content type 'application/zip' length 147716 bytes (144 KB)
+opened URL
+downloaded 144 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/munsell_0.4.3.zip'
+Content type 'application/zip' length 133217 bytes (130 KB)
+opened URL
+downloaded 130 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/labeling_0.3.zip'
+Content type 'application/zip' length 40838 bytes (39 KB)
+opened URL
+downloaded 39 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/lme4_1.1-10.zip'
+Content type 'application/zip' length 4783214 bytes (4.6 MB)
+opened URL
+downloaded 4.6 MB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/SparseM_1.7.zip'
+Content type 'application/zip' length 803181 bytes (784 KB)
+opened URL
+downloaded 784 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/MatrixModels_0.4-1.zip'
+Content type 'application/zip' length 273716 bytes (267 KB)
+opened URL
+downloaded 267 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/digest_0.6.9.zip'
+Content type 'application/zip' length 171597 bytes (167 KB)
+opened URL
+downloaded 167 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/gtable_0.2.0.zip'
+Content type 'application/zip' length 56874 bytes (55 KB)
+opened URL
+downloaded 55 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/scales_0.4.0.zip'
+Content type 'application/zip' length 601939 bytes (587 KB)
+opened URL
+downloaded 587 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/pbkrtest_0.4-4.zip'
+Content type 'application/zip' length 211304 bytes (206 KB)
+opened URL
+downloaded 206 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/quantreg_5.21.zip'
+Content type 'application/zip' length 2143984 bytes (2.0 MB)
+opened URL
+downloaded 2.0 MB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/iterators_1.0.8.zip'
+Content type 'application/zip' length 316148 bytes (308 KB)
+opened URL
+downloaded 308 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/Rcpp_0.12.4.zip'
+Content type 'application/zip' length 3236565 bytes (3.1 MB)
+opened URL
+downloaded 3.1 MB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/stringr_1.0.0.zip'
+Content type 'application/zip' length 83256 bytes (81 KB)
+opened URL
+downloaded 81 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/ggplot2_2.1.0.zip'
+Content type 'application/zip' length 1989346 bytes (1.9 MB)
+opened URL
+downloaded 1.9 MB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/car_2.0-25.zip'
+Content type 'application/zip' length 1386767 bytes (1.3 MB)
+opened URL
+downloaded 1.3 MB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/foreach_1.4.3.zip'
+Content type 'application/zip' length 388802 bytes (379 KB)
+opened URL
+downloaded 379 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/plyr_1.8.3.zip'
+Content type 'application/zip' length 1115538 bytes (1.1 MB)
+opened URL
+downloaded 1.1 MB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/reshape2_1.4.1.zip'
+Content type 'application/zip' length 503787 bytes (491 KB)
+opened URL
+downloaded 491 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/caret_6.0-68.zip'
+Content type 'application/zip' length 4653093 bytes (4.4 MB)
+opened URL
+downloaded 4.4 MB
+
+package ‘colorspace’ successfully unpacked and MD5 sums checked
+package ‘minqa’ successfully unpacked and MD5 sums checked
+package ‘nloptr’ successfully unpacked and MD5 sums checked
+package ‘RcppEigen’ successfully unpacked and MD5 sums checked
+package ‘dichromat’ successfully unpacked and MD5 sums checked
+package ‘munsell’ successfully unpacked and MD5 sums checked
+package ‘labeling’ successfully unpacked and MD5 sums checked
+package ‘lme4’ successfully unpacked and MD5 sums checked
+package ‘SparseM’ successfully unpacked and MD5 sums checked
+package ‘MatrixModels’ successfully unpacked and MD5 sums checked
+package ‘digest’ successfully unpacked and MD5 sums checked
+package ‘gtable’ successfully unpacked and MD5 sums checked
+package ‘scales’ successfully unpacked and MD5 sums checked
+package ‘pbkrtest’ successfully unpacked and MD5 sums checked
+package ‘quantreg’ successfully unpacked and MD5 sums checked
+package ‘iterators’ successfully unpacked and MD5 sums checked
+package ‘Rcpp’ successfully unpacked and MD5 sums checked
+package ‘stringr’ successfully unpacked and MD5 sums checked
+package ‘ggplot2’ successfully unpacked and MD5 sums checked
+package ‘car’ successfully unpacked and MD5 sums checked
+package ‘foreach’ successfully unpacked and MD5 sums checked
+package ‘plyr’ successfully unpacked and MD5 sums checked
+package ‘reshape2’ successfully unpacked and MD5 sums checked
+package ‘caret’ successfully unpacked and MD5 sums checked
+
+The downloaded binary packages are in
+	C:\Users\abjul\AppData\Local\Temp\RtmpSmz7gB\downloaded_packages
+> library(caret)
+Loading required package: lattice
+Loading required package: ggplot2
+
+Attaching package: ‘ggplot2’
+
+The following object is masked from ‘package:randomForest’:
+
+    margin
+
+> library(caret)
+> library(randomForest)
+> library(rpart)
+> library(rpart.plot)
+> library(RColorBrewer)
+> library(rattle)
+> set.seed(1234)
+> trainUrl <- "http://d396qusza40orc.cloudfront.net/predmachlearn/pml-training.csv"
+> testUrl <- "http://d396qusza40orc.cloudfront.net/predmachlearn/pml-testing.csv"
+> training <- read.csv(url(trainUrl), na.strings=c("NA","#DIV/0!",""))
+> testing <- read.csv(url(testUrl), na.strings=c("NA","#DIV/0!",""))
+> inTrain <- createDataPartition(y=training$classe, p=0.6, list=FALSE)
+> myTraining <- training[inTrain, ]; myTesting <- training[-inTrain, ]
+> dim(myTraining); dim(myTesting)
+[1] 11776   160
+[1] 7846  160
+> myDataNZV <- nearZeroVar(myTraining, saveMetrics=TRUE)
+> myNZVvars <- names(myTraining) %in% c("new_window", "kurtosis_roll_belt", "kurtosis_picth_belt",
++                                       "kurtosis_yaw_belt", "skewness_roll_belt", "skewness_roll_belt.1", "skewness_yaw_belt",
++                                       "max_yaw_belt", "min_yaw_belt", "amplitude_yaw_belt", "avg_roll_arm", "stddev_roll_arm",
++                                       "var_roll_arm", "avg_pitch_arm", "stddev_pitch_arm", "var_pitch_arm", "avg_yaw_arm",
++                                       "stddev_yaw_arm", "var_yaw_arm", "kurtosis_roll_arm", "kurtosis_picth_arm",
++                                       "kurtosis_yaw_arm", "skewness_roll_arm", "skewness_pitch_arm", "skewness_yaw_arm",
++                                       "max_roll_arm", "min_roll_arm", "min_pitch_arm", "amplitude_roll_arm", "amplitude_pitch_arm",
++                                       "kurtosis_roll_dumbbell", "kurtosis_picth_dumbbell", "kurtosis_yaw_dumbbell", "skewness_roll_dumbbell",
++                                       "skewness_pitch_dumbbell", "skewness_yaw_dumbbell", "max_yaw_dumbbell", "min_yaw_dumbbell",
++                                       "amplitude_yaw_dumbbell", "kurtosis_roll_forearm", "kurtosis_picth_forearm", "kurtosis_yaw_forearm",
++                                       "skewness_roll_forearm", "skewness_pitch_forearm", "skewness_yaw_forearm", "max_roll_forearm",
++                                       "max_yaw_forearm", "min_roll_forearm", "min_yaw_forearm", "amplitude_roll_forearm",
++                                       "amplitude_yaw_forearm", "avg_roll_forearm", "stddev_roll_forearm", "var_roll_forearm",
++                                       "avg_pitch_forearm", "stddev_pitch_forearm", "var_pitch_forearm", "avg_yaw_forearm",
++                                       "stddev_yaw_forearm", "var_yaw_forearm")
+> myTraining <- myTraining[!myNZVvars]
+> 
+> dim(myTraining)
+[1] 11776   100
+> myTraining <- myTraining[c(-1)]
+> trainingV3 <- myTraining #creating another subset to iterate in loop
+> for(i in 1:length(myTraining)) { #for every column in the training dataset
++     if( sum( is.na( myTraining[, i] ) ) /nrow(myTraining) >= .6 ) { #if n?? NAs > 60% of total observations
++         for(j in 1:length(trainingV3)) {
++             if( length( grep(names(myTraining[i]), names(trainingV3)[j]) ) ==1)  { #if the columns are the same:
++                 trainingV3 <- trainingV3[ , -j] #Remove that column
++             }   
++         } 
++     }
++ }
+> #To check the new N?? of observations
+> dim(trainingV3)
+[1] 11776    58
+> myTraining <- trainingV3
+> rm(trainingV3)
+> clean1 <- colnames(myTraining)
+> clean2 <- colnames(myTraining[, -58]) #already with classe column removed
+> myTesting <- myTesting[clean1]
+> testing <- testing[clean2]
+> 
+> #To check the new N?? of observations
+> dim(myTesting)
+[1] 7846   58
+> 
+> dim(testing)
+[1] 20 57
+> for (i in 1:length(testing) ) {
++     for(j in 1:length(myTraining)) {
++         if( length( grep(names(myTraining[i]), names(testing)[j]) ) ==1)  {
++             class(testing[j]) <- class(myTraining[i])
++         }      
++     }      
++ }
+> testing <- rbind(myTraining[2, -58] , testing) #note row 2 does not mean anything, this will be removed right.. now:
+> testing <- testing[-1,]
+> modFitA1 <- rpart(classe ~ ., data=myTraining, method="class")
+> fancyRpartPlot(modFitA1)
+Warning message:
+labs do not fit even at cex 0.15, there may be some overplotting 
+> predictionsA1 <- predict(modFitA1, myTesting, type = "class")
+> confusionMatrix(predictionsA1, myTesting$classe)
+Error in requireNamespaceQuietStop("e1071") : package e1071 is required
+> confusionMatrix(predictionsA1, myTesting$classe)
+Error in requireNamespaceQuietStop("e1071") : package e1071 is required
+> modFitB1 <- randomForest(classe ~. , data=myTraining)
+> predictionsB1 <- predict(modFitB1, myTesting, type = "class")
+> confusionMatrix(predictionsB1, myTesting$classe)
+Error in requireNamespaceQuietStop("e1071") : package e1071 is required
+> install.packages("e1071", dep = TRUE) 
+Installing package into ‘C:/Users/abjul/OneDrive/Documents/R/win-library/3.1’
+(as ‘lib’ is unspecified)
+
+  There is a binary version available (and will be installed) but the source version is
+  later:
+      binary source
+e1071  1.6-7  1.6-8
+
+also installing the dependencies ‘mlbench’, ‘xtable’
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/mlbench_2.1-1.zip'
+Content type 'application/zip' length 1032334 bytes (1008 KB)
+opened URL
+downloaded 1008 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/xtable_1.8-2.zip'
+Content type 'application/zip' length 710000 bytes (693 KB)
+opened URL
+downloaded 693 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.1/e1071_1.6-7.zip'
+Content type 'application/zip' length 814561 bytes (795 KB)
+opened URL
+downloaded 795 KB
+
+package ‘mlbench’ successfully unpacked and MD5 sums checked
+package ‘xtable’ successfully unpacked and MD5 sums checked
+package ‘e1071’ successfully unpacked and MD5 sums checked
+
+The downloaded binary packages are in
+	C:\Users\abjul\AppData\Local\Temp\RtmpSmz7gB\downloaded_packages
+> library(e1071)
+> confusionMatrix(predictionsA1, myTesting$classe)
+Confusion Matrix and Statistics
+
+          Reference
+Prediction    A    B    C    D    E
+         A 2161   61    5    3    0
+         B   50 1271   95   64    0
+         C   21  177 1242  203   65
+         D    0    9   19  899   92
+         E    0    0    7  117 1285
+
+Overall Statistics
+                                          
+               Accuracy : 0.8741          
+                 95% CI : (0.8665, 0.8813)
+    No Information Rate : 0.2845          
+    P-Value [Acc > NIR] : < 2.2e-16       
+                                          
+                  Kappa : 0.8407          
+ Mcnemar's Test P-Value : NA              
+
+Statistics by Class:
+
+                     Class: A Class: B Class: C Class: D Class: E
+Sensitivity            0.9682   0.8373   0.9079   0.6991   0.8911
+Specificity            0.9877   0.9670   0.9281   0.9817   0.9806
+Pos Pred Value         0.9691   0.8588   0.7272   0.8822   0.9120
+Neg Pred Value         0.9874   0.9612   0.9795   0.9433   0.9756
+Prevalence             0.2845   0.1935   0.1744   0.1639   0.1838
+Detection Rate         0.2754   0.1620   0.1583   0.1146   0.1638
+Detection Prevalence   0.2842   0.1886   0.2177   0.1299   0.1796
+Balanced Accuracy      0.9779   0.9021   0.9180   0.8404   0.9359
+> confusionMatrix(predictionsB1, myTesting$classe)
+Confusion Matrix and Statistics
+
+          Reference
+Prediction    A    B    C    D    E
+         A 2232    2    0    0    0
+         B    0 1516    4    0    0
+         C    0    0 1362    5    0
+         D    0    0    2 1280    0
+         E    0    0    0    1 1442
+
+Overall Statistics
+                                        
+               Accuracy : 0.9982        
+                 95% CI : (0.997, 0.999)
+    No Information Rate : 0.2845        
+    P-Value [Acc > NIR] : < 2.2e-16     
+                                        
+                  Kappa : 0.9977        
+ Mcnemar's Test P-Value : NA            
+
+Statistics by Class:
+
+                     Class: A Class: B Class: C Class: D Class: E
+Sensitivity            1.0000   0.9987   0.9956   0.9953   1.0000
+Specificity            0.9996   0.9994   0.9992   0.9997   0.9998
+Pos Pred Value         0.9991   0.9974   0.9963   0.9984   0.9993
+Neg Pred Value         1.0000   0.9997   0.9991   0.9991   1.0000
+Prevalence             0.2845   0.1935   0.1744   0.1639   0.1838
+Detection Rate         0.2845   0.1932   0.1736   0.1631   0.1838
+Detection Prevalence   0.2847   0.1937   0.1742   0.1634   0.1839
+Balanced Accuracy      0.9998   0.9990   0.9974   0.9975   0.9999
+> modFitB1 <- randomForest(classe ~. , data=myTraining)
+> predictionsB1 <- predict(modFitB1, myTesting, type = "class")
+> confusionMatrix(predictionsB1, myTesting$classe)
+Confusion Matrix and Statistics
+
+          Reference
+Prediction    A    B    C    D    E
+         A 2232    2    0    0    0
+         B    0 1516    4    0    0
+         C    0    0 1362    5    0
+         D    0    0    2 1281    1
+         E    0    0    0    0 1441
+
+Overall Statistics
+                                        
+               Accuracy : 0.9982        
+                 95% CI : (0.997, 0.999)
+    No Information Rate : 0.2845        
+    P-Value [Acc > NIR] : < 2.2e-16     
+                                        
+                  Kappa : 0.9977        
+ Mcnemar's Test P-Value : NA            
+
+Statistics by Class:
+
+                     Class: A Class: B Class: C Class: D Class: E
+Sensitivity            1.0000   0.9987   0.9956   0.9961   0.9993
+Specificity            0.9996   0.9994   0.9992   0.9995   1.0000
+Pos Pred Value         0.9991   0.9974   0.9963   0.9977   1.0000
+Neg Pred Value         1.0000   0.9997   0.9991   0.9992   0.9998
+Prevalence             0.2845   0.1935   0.1744   0.1639   0.1838
+Detection Rate         0.2845   0.1932   0.1736   0.1633   0.1837
+Detection Prevalence   0.2847   0.1937   0.1742   0.1637   0.1837
+Balanced Accuracy      0.9998   0.9990   0.9974   0.9978   0.9997
+> predictionsB2 <- predict(modFitB1, testing, type = "class")
+> pml_write_files = function(x){
++     n = length(x)
++     for(i in 1:n){
++         filename = paste0("problem_id_",i,".txt")
++         write.table(x[i],file=filename,quote=FALSE,row.names=FALSE,col.names=FALSE)
++     }
++ }
+> 
+> pml_write_files(predictionsB2)
+> View(pml_write_files)
+> 
+> 
+> pml_write_files = function(x){
++     n = length(x)
++     for(i in 1:n){
++         filename = paste0("problem_id_",i,".txt")
++         write.table(x[i],file=filename,quote=FALSE,row.names=FALSE,col.names=FALSE)
++     }
++ }
+> 
+> pml_write_files(predictionsB2)
+> pml_write_files = function(x){
++     n = length(x)
++     for(i in 1:n){
++         filename = paste0("problem_id_",i,".txt")
++         write.table(x[i],file=filename,quote=FALSE,row.names=FALSE,col.names=FALSE)
++     }
++ }
+> 
+> pml_write_files(predictionsB2)
+> View(pml_write_files)
+> View(pml_write_files)
+> View(pml_write_files)
+> View(pml_write_files)
+> save.image("C:/Users/abjul/Assignment.RData")
